@@ -6,4 +6,4 @@ cardano-node run \
  --port 3000 \
  --config ~/cardano-node/configuration/core/ff-config.json \
  --topology ~/cardano-node/configuration/core/ff-topology.json
-
+ 

@@ -6,3 +6,4 @@ cardano-node run \
   --port 3002 \
   --config  ~/cardano-node/configuration/relay2/ff-config.json \
   --topology  ~/cardano-node/configuration/relay2/ff-topology.json
+  

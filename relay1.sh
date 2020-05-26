@@ -5,3 +5,4 @@ cardano-node run \
   --port 3001 \
   --config  ~/cardano-node/configuration/relay1/ff-config.json \
   --topology  ~/cardano-node/configuration/relay1/ff-topology.json
+  
