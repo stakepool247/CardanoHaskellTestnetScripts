@@ -4,5 +4,4 @@ cardano-node run \
   --socket-path ~/cardano-node/socket/core \
   --port 3000 \
   --config ~/cardano-node/configuration/core/shelley_testnet-config.json \
-  --topology ~/cardano-node/configuration/core/shelley_testnet-topology.json
- 
+  --topology ~/cardano-node/configuration/core/mainnet_candidate-topology.json
