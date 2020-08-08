@@ -14,7 +14,7 @@ if [ $? != 0 ]; then
  tmux send-keys -t 'cardano:node.0' './node.sh' Enter
  tmux send-keys -t 'cardano:node.1' 'htop' Enter
  tmux send-keys -t 'cardano:node.2' 'nload' Enter
- tmux send-keys -t 'cardano:node.3' ' Enter
+ tmux send-keys -t 'cardano:node.3' Enter
 fi
 
 tmux attach-session -t $session
